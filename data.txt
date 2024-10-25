@@ -1,0 +1,24 @@
+Course lists:
+
+ID: 1
+Title: Laravel Programming
+Description: The Laravel Programming course helps you build powerful, fast, and efficient web applications. Laravel is a popular PHP framework with many robust features such as Eloquent ORM, Blade templating engine, and a flexible routing system.
+Image URL: images/laravel.png
+
+ID: 2
+Title: .NET Programming
+Description: The .NET Programming course enables you to develop cross-platform applications using the C# programming language. You will learn how to use both .NET Framework and .NET Core to create web, desktop, and API applications.
+Image URL: images/dot-net.png
+
+ID: 3
+Title: Spring Boot Programming
+Description: The Spring Boot Programming course teaches you how to easily and quickly build Java applications. You will learn to develop microservices, perform automatic configuration, and deploy applications with Spring Boot.
+Image URL: images/spring-boot.png
+
+ID: 4
+Title: Angular Programming
+Description: The Angular Programming course helps you create dynamic and interactive user interfaces. You will learn to use TypeScript, create components, services, and modules, as well as manage application state with Redux.
+Image URL: images/angular.png
+
+
+
